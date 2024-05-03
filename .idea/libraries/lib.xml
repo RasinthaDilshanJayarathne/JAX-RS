@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/jackson-databind-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/byte-buddy-1.14.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/jackson-core-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/mysql-connector-java-8.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/jackson-annotations-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/json-20240303.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
